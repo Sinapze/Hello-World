@@ -1,0 +1,16 @@
+[
+{
+  "modid": "helloworld",
+  "name": "Hello World",
+  "description": "My very first functioning mod",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sinapze"]
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
